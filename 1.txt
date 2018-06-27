@@ -1,8 +1,8 @@
+hhAHA
 "Open Source" is a good mechanism to develop programs.
 apple is my favorite food.
 Football game is not use feet only.
 this dress doesn't fit me.
-sdfsdfsfsdf  asdfsadfsdf
 However, this dress is about $ 3183 dollars.
 GNU is free air not free beer.
 Her hair is very beauty.
@@ -20,4 +20,5 @@ google is the best tools for search keyword.
 goooooogle yes!
 go! go! Let's go.
 # I am VBird
+
 
